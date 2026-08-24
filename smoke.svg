@@ -49,7 +49,7 @@
       }
 
       .st10 {
-        fill: url(#_名称未設定グラデーション_36);
+        fill: url(#_名称未設定グラデーション_61);
       }
 
       .st11 {
@@ -65,7 +65,7 @@
       <stop offset="1" stop-color="#f2efe6" stop-opacity=".1"/>
       <stop offset="1" stop-color="#000"/>
     </linearGradient>
-    <linearGradient id="_名称未設定グラデーション_36" data-name="名称未設定グラデーション 36" x1="89.9" y1="505.1" x2="89.9" y2="73" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_名称未設定グラデーション_61" data-name="名称未設定グラデーション 61" x1="89.9" y1="505.1" x2="89.9" y2="73" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f2efe6"/>
       <stop offset="1" stop-color="#f2efe6" stop-opacity="0"/>
     </linearGradient>
