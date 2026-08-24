@@ -53,7 +53,7 @@
       }
 
       .st11 {
-        fill: url(#_名称未設定グラデーション_47);
+        fill: url(#_名称未設定グラデーション_68);
       }
     </style>
     <linearGradient id="_名称未設定グラデーション" data-name="名称未設定グラデーション" x1="70.6" y1="266.7" x2="152.2" y2="487.5" gradientTransform="translate(0 542.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
@@ -65,20 +65,20 @@
       <stop offset="1" stop-color="#f2efe6" stop-opacity=".1"/>
       <stop offset="1" stop-color="#000"/>
     </linearGradient>
-    <linearGradient id="_名称未設定グラデーション_61" data-name="名称未設定グラデーション 61" x1="89.9" y1="505.1" x2="89.9" y2="73" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_名称未設定グラデーション_61" data-name="名称未設定グラデーション 61" x1="89.9" y1="460.8" x2="89.9" y2="28.8" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f2efe6"/>
       <stop offset="1" stop-color="#f2efe6" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="_名称未設定グラデーション_47" data-name="名称未設定グラデーション 47" x1="137.4" y1="137.3" x2="137.4" y2="531.7" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_名称未設定グラデーション_68" data-name="名称未設定グラデーション 68" x1="137.4" y1="417.9" x2="137.4" y2="125" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f2efe6"/>
-      <stop offset="1" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="_名称未設定グラデーション_2" data-name="名称未設定グラデーション 2" x1="164.3" y1="192.3" x2="67.5" y2="390.9" gradientTransform="translate(0 542.9) scale(1 -1)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f2efe6"/>
       <stop offset="1" stop-color="#f2efe6" stop-opacity="0"/>
       <stop offset="1" stop-color="#000"/>
     </linearGradient>
-    <linearGradient id="_名称未設定グラデーション_31" data-name="名称未設定グラデーション 31" x1="76.6" y1="300.8" x2="76.6" y2="585" gradientUnits="userSpaceOnUse">
+    <linearGradient id="_名称未設定グラデーション_31" data-name="名称未設定グラデーション 31" x1="76.6" y1="501.7" x2="76.6" y2="308.1" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f2efe6"/>
       <stop offset="1" stop-color="#f2efe6" stop-opacity=".1"/>
     </linearGradient>
